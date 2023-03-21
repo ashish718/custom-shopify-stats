@@ -1,0 +1,26 @@
+{
+  "name": "custom-shopify-stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashish718/custom-shopify-stats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashish718/custom-shopify-stats/issues"
+  },
+  "homepage": "https://github.com/ashish718/custom-shopify-stats#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.2",
+    "nonce": "^1.0.4",
+    "request-promise": "^4.2.6"
+  }
+}
